@@ -1,0 +1,4 @@
+[
+    { "name" : "50", "address": "138.1.139.50", "user" : "opc", "identityFile" : "mtier.crt" },
+    { "name" : "43", "address": "130.35.11.43", "user" : "opc", "identityFile" : "mtier.crt" } 
+]    

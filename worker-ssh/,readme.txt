@@ -1,0 +1,1 @@
+directory for a dockerfile and instructions for a ssh-connected worker running in a docker container

@@ -1,0 +1,1 @@
+plugins directory - these are pre-downloaded and injected into the jenkins container instance
